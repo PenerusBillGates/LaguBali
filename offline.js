@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1686215813,
+	"version": 1686219518,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -169,6 +169,7 @@
 		"images/gambarratu2-sheet0.png",
 		"images/gambarjanger-sheet0.png",
 		"images/profilelogo-sheet0.png",
+		"images/gambarmouse-sheet0.png",
 		"media/tombol.m4a",
 		"media/tombol.ogg",
 		"media/dadong.ogg",
