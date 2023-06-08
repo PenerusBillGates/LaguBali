@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1685528398,
+	"version": 1686215813,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -30,6 +30,7 @@
 		"images/isi-sheet3.png",
 		"images/isi-sheet4.png",
 		"images/black-sheet0.png",
+		"images/profile-sheet0.png",
 		"images/close-sheet0.png",
 		"images/pengembang-sheet0.png",
 		"images/tentang-sheet0.png",
@@ -91,6 +92,8 @@
 		"images/lagu4-sheet0.png",
 		"images/lagu5-sheet0.png",
 		"images/teks3-sheet0.png",
+		"images/lagu6-sheet0.png",
+		"images/lagu9-sheet0.png",
 		"images/meong-sheet0.png",
 		"images/ratu-sheet0.png",
 		"images/putri-sheet0.png",
