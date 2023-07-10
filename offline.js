@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1686219518,
+	"version": 1688970793,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -31,6 +31,11 @@
 		"images/isi-sheet4.png",
 		"images/black-sheet0.png",
 		"images/profile-sheet0.png",
+		"images/profile-sheet1.png",
+		"images/profile-sheet2.png",
+		"images/profile-sheet3.png",
+		"images/profile-sheet4.png",
+		"images/profile-sheet5.png",
 		"images/close-sheet0.png",
 		"images/pengembang-sheet0.png",
 		"images/tentang-sheet0.png",
@@ -185,10 +190,10 @@
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"meong-meong.mp4",
-		"ratu anom.mp4",
 		"dadong dauh.mp4",
 		"mejangeran.mp4",
-		"putri cening ayu.mp4"
+		"meong-meong.mp4",
+		"putri cening ayu.mp4",
+		"ratu anom.mp4"
 	]
 }
